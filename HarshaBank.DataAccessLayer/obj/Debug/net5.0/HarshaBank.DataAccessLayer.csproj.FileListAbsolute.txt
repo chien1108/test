@@ -1,0 +1,15 @@
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\bin\Debug\net5.0\HarshaBank.DataAccessLayer.deps.json
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\bin\Debug\net5.0\HarshaBank.DataAccessLayer.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\bin\Debug\net5.0\ref\HarshaBank.DataAccessLayer.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\bin\Debug\net5.0\HarshaBank.DataAccessLayer.pdb
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\bin\Debug\net5.0\HarshaBank.Entities.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\bin\Debug\net5.0\HarshaBank.Entities.pdb
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\obj\Debug\net5.0\HarshaBank.DataAccessLayer.csproj.AssemblyReference.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\obj\Debug\net5.0\HarshaBank.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\obj\Debug\net5.0\HarshaBank.DataAccessLayer.AssemblyInfoInputs.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\obj\Debug\net5.0\HarshaBank.DataAccessLayer.AssemblyInfo.cs
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\obj\Debug\net5.0\HarshaBank.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\obj\Debug\net5.0\HarshaBank.DataAccessLayer.csproj.CopyComplete
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\obj\Debug\net5.0\HarshaBank.DataAccessLayer.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\obj\Debug\net5.0\ref\HarshaBank.DataAccessLayer.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.DataAccessLayer\obj\Debug\net5.0\HarshaBank.DataAccessLayer.pdb

@@ -1,0 +1,12 @@
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\bin\Debug\net5.0\HarshaBank.Entities.deps.json
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\bin\Debug\net5.0\HarshaBank.Entities.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\bin\Debug\net5.0\ref\HarshaBank.Entities.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\bin\Debug\net5.0\HarshaBank.Entities.pdb
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\obj\Debug\net5.0\HarshaBank.Entities.csproj.AssemblyReference.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\obj\Debug\net5.0\HarshaBank.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\obj\Debug\net5.0\HarshaBank.Entities.AssemblyInfoInputs.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\obj\Debug\net5.0\HarshaBank.Entities.AssemblyInfo.cs
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\obj\Debug\net5.0\HarshaBank.Entities.csproj.CoreCompileInputs.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\obj\Debug\net5.0\HarshaBank.Entities.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\obj\Debug\net5.0\ref\HarshaBank.Entities.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Entities\obj\Debug\net5.0\HarshaBank.Entities.pdb

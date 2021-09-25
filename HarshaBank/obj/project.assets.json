@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "HarshaBank.BusinessLogicLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "HarshaBank.DataAccessLayer": "1.0.0",
+          "HarshaBank.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HarshaBank.BusinessLogicLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HarshaBank.BusinessLogicLayer.dll": {}
+        }
+      },
+      "HarshaBank.DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "HarshaBank.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HarshaBank.DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HarshaBank.DataAccessLayer.dll": {}
+        }
+      },
+      "HarshaBank.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/HarshaBank.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HarshaBank.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HarshaBank.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "path": "../HarshaBank.BusinessLogicLayer/HarshaBank.BusinessLogicLayer.csproj",
+      "msbuildProject": "../HarshaBank.BusinessLogicLayer/HarshaBank.BusinessLogicLayer.csproj"
+    },
+    "HarshaBank.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../HarshaBank.DataAccessLayer/HarshaBank.DataAccessLayer.csproj",
+      "msbuildProject": "../HarshaBank.DataAccessLayer/HarshaBank.DataAccessLayer.csproj"
+    },
+    "HarshaBank.Entities/1.0.0": {
+      "type": "project",
+      "path": "../HarshaBank.Entities/HarshaBank.Entities.csproj",
+      "msbuildProject": "../HarshaBank.Entities/HarshaBank.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "HarshaBank.BusinessLogicLayer >= 1.0.0",
+      "HarshaBank.DataAccessLayer >= 1.0.0",
+      "HarshaBank.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\daiha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank\\HarshaBank.Presentation.csproj",
+      "projectName": "HarshaBank.Presentation",
+      "projectPath": "D:\\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank\\HarshaBank.Presentation.csproj",
+      "packagesPath": "C:\\Users\\daiha\\.nuget\\packages\\",
+      "outputPath": "D:\\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\daiha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank.BusinessLogicLayer\\HarshaBank.BusinessLogicLayer.csproj": {
+              "projectPath": "D:\\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank.BusinessLogicLayer\\HarshaBank.BusinessLogicLayer.csproj"
+            },
+            "D:\\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank.DataAccessLayer\\HarshaBank.DataAccessLayer.csproj": {
+              "projectPath": "D:\\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank.DataAccessLayer\\HarshaBank.DataAccessLayer.csproj"
+            },
+            "D:\\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank.Entities\\HarshaBank.Entities.csproj": {
+              "projectPath": "D:\\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank_ChienDT9\\HarshaBank.Entities\\HarshaBank.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

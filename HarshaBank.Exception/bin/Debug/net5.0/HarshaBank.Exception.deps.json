@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HarshaBank.Exception/1.0.0": {
+        "runtime": {
+          "HarshaBank.Exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HarshaBank.Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

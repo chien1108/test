@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HarshaBank.Presentation/1.0.0": {
+        "dependencies": {
+          "HarshaBank.BusinessLogicLayer": "1.0.0",
+          "HarshaBank.DataAccessLayer": "1.0.0",
+          "HarshaBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HarshaBank.Presentation.dll": {}
+        }
+      },
+      "HarshaBank.BusinessLogicLayer/1.0.0": {
+        "dependencies": {
+          "HarshaBank.DataAccessLayer": "1.0.0",
+          "HarshaBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HarshaBank.BusinessLogicLayer.dll": {}
+        }
+      },
+      "HarshaBank.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "HarshaBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HarshaBank.DataAccessLayer.dll": {}
+        }
+      },
+      "HarshaBank.Entities/1.0.0": {
+        "runtime": {
+          "HarshaBank.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HarshaBank.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HarshaBank.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HarshaBank.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HarshaBank.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

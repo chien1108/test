@@ -1,0 +1,12 @@
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\bin\Debug\net5.0\HarshaBank.Exception.deps.json
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\bin\Debug\net5.0\HarshaBank.Exception.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\bin\Debug\net5.0\ref\HarshaBank.Exception.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\bin\Debug\net5.0\HarshaBank.Exception.pdb
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\obj\Debug\net5.0\HarshaBank.Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\obj\Debug\net5.0\HarshaBank.Exception.AssemblyInfoInputs.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\obj\Debug\net5.0\HarshaBank.Exception.AssemblyInfo.cs
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\obj\Debug\net5.0\HarshaBank.Exception.csproj.CoreCompileInputs.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\obj\Debug\net5.0\HarshaBank.Exception.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\obj\Debug\net5.0\ref\HarshaBank.Exception.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\obj\Debug\net5.0\HarshaBank.Exception.pdb
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.Exception\obj\Debug\net5.0\HarshaBank.Exception.csproj.AssemblyReference.cache

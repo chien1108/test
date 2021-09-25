@@ -1,0 +1,17 @@
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\bin\Debug\net5.0\HarshaBank.BusinessLogicLayer.deps.json
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\bin\Debug\net5.0\HarshaBank.BusinessLogicLayer.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\bin\Debug\net5.0\ref\HarshaBank.BusinessLogicLayer.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\bin\Debug\net5.0\HarshaBank.BusinessLogicLayer.pdb
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\bin\Debug\net5.0\HarshaBank.DataAccessLayer.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\bin\Debug\net5.0\HarshaBank.Entities.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\bin\Debug\net5.0\HarshaBank.DataAccessLayer.pdb
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\bin\Debug\net5.0\HarshaBank.Entities.pdb
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\obj\Debug\net5.0\HarshaBank.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\obj\Debug\net5.0\HarshaBank.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\obj\Debug\net5.0\HarshaBank.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\obj\Debug\net5.0\HarshaBank.BusinessLogicLayer.AssemblyInfo.cs
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\obj\Debug\net5.0\HarshaBank.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\obj\Debug\net5.0\HarshaBank.BusinessLogicLayer.csproj.CopyComplete
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\obj\Debug\net5.0\HarshaBank.BusinessLogicLayer.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\obj\Debug\net5.0\ref\HarshaBank.BusinessLogicLayer.dll
+D:\[HN21_PFR_.NET_04]_SourceCode_ChienDT9\HarshaBank_ChienDT9\HarshaBank_ChienDT9\HarshaBank.BusinessLogicLayer\obj\Debug\net5.0\HarshaBank.BusinessLogicLayer.pdb
